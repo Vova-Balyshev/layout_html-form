@@ -1,1 +1,19 @@
 /* styles go here */
+.form-field {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.last {
+  margin-bottom: 0;
+}
+
+.group {
+  margin-bottom: 20px;
+  display: block;
+}
+
+.field {
+  display: inline-block;
+  margin-bottom: 10px;
+}
